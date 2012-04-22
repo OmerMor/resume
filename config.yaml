@@ -10,7 +10,7 @@ user_config:
    file: 'resume.md'
 
    # A picture of you. Should be a complete url
-   pic: 'https://secure.gravatar.com/avatar/55f78e6e0e8bf4b9fc9a42c1d02bdd4d'
+   pic: 'http://farm8.static.flickr.com/7228/6955103418_3a8e2f0c34_m.jpg'
 
    # The google analytics key you wish to use.
    gkey: 'UA-31090240-1'
