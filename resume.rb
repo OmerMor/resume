@@ -10,7 +10,7 @@ rescue LoadError
 end
 
 # Check all of the gems we need are there.
-[ "sinatra", "less", "github/markup", "yaml" ].each {|gem|
+[ "sinatra", "github/markup", "yaml" ].each {|gem|
    begin
       require gem
    rescue LoadError

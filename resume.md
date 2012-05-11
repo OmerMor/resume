@@ -1,8 +1,7 @@
 # Omer Mor
-
- * <omer.mor@gmail.com>
- * +972 (54) 4949-499
-
+###### <omer.mor@gmail.com>
+###### +972 (54) 4949-499
+###### [http://omermor.github.com/Resume/](http://omermor.github.com/Resume/)
 
 ## Summary
 
@@ -15,7 +14,8 @@ I am looking for new challenges that involve large scale systems and cutting edg
 ## Experience
 
 ### Rafael Advanced Defense Systems Ltd.
-#### Software Group Leader - October 201 to Present
+#### Software Group Leader
+##### October 2010 - Present
 
  * Leading a group of 4 teams, consisting of 12 software and test engineers, developing mission planning systems in the domains of GIS, computer vision and aerospace engineering.
  * Responsible for pricing, project planning and project delivery estimations in a $100 million project.
@@ -24,54 +24,64 @@ I am looking for new challenges that involve large scale systems and cutting edg
  * Key member of the division's administration staff, taking part in strategic and long-term decision making.
  * Recruited 10 engineers to join my division. Serve as the technical interview lead and as part of the division's recruiting team.
 
-#### Software Architect - April 2007 to October 2010
+#### Software Architect
+##### April 2007 - October 2010
 
  * Responsible for architecture and software design across 5 projects.
  * Mentor and a professional authority, providing vision and direction. Set policies, standards and introduced new frameworks and tools.
  * Member of the division's architecture forum, I ran architecture reviews on all projects and served as a consultant for different teams.
  * Presented and trained software team leaders in several topics ranging from system architecture and methodologies to system design and specific technologies.
 
-#### Team Leader - February 2006 to October 2010
+#### Team Leader
+##### February 2006 - October 2010
 
  * Led 4 teams of 2-4 people, developing mission critical systems:
- * Distributed C4I simulation demo
- * Record and playback system for C4I system
- * Distributed Monitor & Control watchdog service
- * Distribution and tunneling framework on top of MSMQ transport
+    * Distributed C4I simulation demo
+    * Record and playback system for C4I system
+    * Distributed Monitor & Control watchdog service
+    * Distribution and tunneling framework on top of MSMQ transport
  * Introduced Test-Driven Development process to teams’ work procedures.
 
 ### Elbit Systems Ltd.
-#### Senior Software Engineer - April 2003 to April 2004
+#### Senior Software Engineer
+##### April 2003 - April 2004
 
  * Designed and built code-generating modules for IDF's army largest distributed C4I system.
 
-#### System Analyst - February 2002 to April 2003
+#### System Analyst
+##### February 2002 - April 2003
 
  * Led a team of 3 software analysts.
  * Performed use-case analysis of core modules.
 
 ### IDF – C4I Systems Division (Lotem)
-#### Team Leader - August 2001 to February 2002
+#### Team Leader
+##### August 2001 - February 2002
 
  * Led the UI Infrastructure team for a large army C4I system. Directly managed two employees.
  * Built common user controls in Visual Basic.
  * Worked directly with clients to write system's principal operations specifications.
 
 ### IDF – Techno-Logistic Computing Center (Mamtal)
-#### Software Engineer - April 1999 to August 2001
+#### Software Engineer
+##### April 1999 - August 2001
 
  * Analyzed, designed and developed a military provisioning expert system.
  * C++/Motif and Visual Basic in Windows and UNIX environments.
 
 ## Open Source Projects Contribution
-#### [AsyncBridge](http://omermor.github.com/AsyncBridge)
+#### AsyncBridge
+##### [omermor.github.com/AsyncBridge](http://omermor.github.com/AsyncBridge)
 Adds the new C# 5 async for older .NET 3.5 and .NET 4.0 projects
 
-#### [Messageless](http://omermor.github.com/Messageless)
+#### Messageless
+##### [github.com/OmerMor/Messageless](https://github.com/OmerMor/Messageless)
 A novel and innovative RPC based, one-way asynchronous communication framework
 
-#### [State-Machine Toolkit](http://omermor.github.com/StateMachineToolkit)
+#### State-Machine Toolkit
+##### [github.com/OmerMor/StateMachineToolkit](https://github.com/OmerMor/StateMachineToolkit)
 A generic state-machine framework, with support for active/passive machines, exposed events and rich exception handling.
+
  * Adopted an old "orphan" open source project.
  * Rewrote it using generic programming.
  * Added new features and improved API.
@@ -79,39 +89,46 @@ A generic state-machine framework, with support for active/passive machines, exp
 
 ## Publications
 
- 1. **Accelerating Enum-Based Dictionaries with Generic EnumComparer**, Omer Mor, [CodeProject](http://www.codeproject.com/KB/cs/EnumComparer.aspx) (2009).
+ 1. Omer Mor (2009) "**Accelerating Enum-Based Dictionaries with Generic EnumComparer**", [CodeProject](http://www.codeproject.com/KB/cs/EnumComparer.aspx)
+ 
+     ([http://www.codeproject.com/KB/cs/EnumComparer.aspx](http://www.codeproject.com/KB/cs/EnumComparer.aspx))
 
 ## Education
 ### Technion - Israel Institute of Technology, Haifa
-
- Computer Science, B.Sc.  
- 1996 – 1999  
+####  B.Sc. in Computer Science
+##### 1996 – 1999  
 
  * Received the Dean’s Excellence Award, 1997
 
 ## Professional Skills
  * Fluent in C#, Java and C++
- * Worked with Relational (SQL Server, Oracle) and NoSQL databases (RavenDB)
  * System Planning, Architecture, Design and Delivery
  * Expertise in Distributed Systems
  * Deep understanding of Multi-Threaded and Multi-Process Applications
  * Expertise in Code Generation applications
  * Low Level Debugging & Profiling
+ * Worked with Relational (SQL Server, Oracle) and NoSQL databases (RavenDB)
  * Extensive knowledge of Windows and Unix/Linux environments
  * Design Patterns and Principles (SOLID) and Agile development methodologies
 
 ## Language Skills
  English & Hebrew
  
-<!-- 
-**Programming Languages**
+## Awards and Prizes
+ * Recognition Award for professional and quality recruiting effort
+ 
+     *Rafael, 2011*
+	 
+ * Recognition Award for ongoing quality and excellent work
+ 
+     *Rafael, 2009*
+	 
+ * Recognition Award for outstanding technical achievement
+ 
+     *Rafael, 2006*
+	 
+ * Dean’s Excellence Award
+ 
+     *Faculty of Computer Science, Technion, 1997*
 
- > Proficient in:  PHP, Ruby, SML/NJ, HTML, CSS, JavaScript, C, Java, SQL (MySQL, SQLite), Bash
-
- > Experience with: F#, Python, C++, MongoDB
-
-**Software**
-
- > I have experience using most modern development tools including Eclipse, Vim, Git and SVN. I have been using Linux for both personal and server use since 2002. I am also capable of using the majority of the Adobe Creative Suite.
--->
 
