@@ -3,19 +3,107 @@
  * <omer.mor@gmail.com>
  * +972 (54) 4949-499
 
-<!--
-## Background
 
-I am a current student of Computer Science at Cal Poly with an interest in communication and design. I am a big believer in experimenting with new things to expand my knowledge both professionally and recreationally. I strive to be a quick learner and both a competent leader and capable worker. I am an Eagle Scout and was an active officer of the Cal Poly Linux Users Group for three years. I was awarded Cal Poly's Residence Hall Council member of the year for both 2006 and 2007. In my free time I enjoy contributing to open source projects, hiking, reading and listening to music.
+## Summary
+
+I am a passionate software engineer with deep understanding of software systems and extensive experience in software architecture, planning and developing complex systems. 
+A goal oriented team player with strong interpersonal skills who loves thinking out of the box, taking on new challenges, and problem solving.
+I am also an active maintainer of several open source projects.
+
+I am looking for new challenges that involve large scale systems and cutting edge technologies.
+
+## Experience
+
+### Rafael Advanced Defense Systems Ltd.
+#### Software Group Leader - October 201 to Present
+
+ * Leading a group of 4 teams, consisting of 12 software and test engineers, developing mission planning systems in the domains of GIS, computer vision and aerospace engineering.
+ * Responsible for pricing, project planning and project delivery estimations in a $100 million project.
+ * Working closely with cross functional teams – I supervise and coordinate development with project managers, system engineers, and clients.
+ * Led implementation of Agile/Scrum methodologies across several engineer groups.
+ * Key member of the division's administration staff, taking part in strategic and long-term decision making.
+ * Recruited 10 engineers to join my division. Serve as the technical interview lead and as part of the division's recruiting team.
+
+#### Software Architect - April 2007 to October 2010
+
+ * Responsible for architecture and software design across 5 projects.
+ * Mentor and a professional authority, providing vision and direction. Set policies, standards and introduced new frameworks and tools.
+ * Member of the division's architecture forum, I ran architecture reviews on all projects and served as a consultant for different teams.
+ * Presented and trained software team leaders in several topics ranging from system architecture and methodologies to system design and specific technologies.
+
+#### Team Leader - February 2006 to October 2010
+
+ * Led 4 teams of 2-4 people, developing mission critical systems:
+ * Distributed C4I simulation demo
+ * Record and playback system for C4I system
+ * Distributed Monitor & Control watchdog service
+ * Distribution and tunneling framework on top of MSMQ transport
+ * Introduced Test-Driven Development process to teams’ work procedures.
+
+### Elbit Systems Ltd.
+#### Senior Software Engineer - April 2003 to April 2004
+
+ * Designed and built code-generating modules for IDF's army largest distributed C4I system.
+
+#### System Analyst - February 2002 to April 2003
+
+ * Led a team of 3 software analysts.
+ * Performed use-case analysis of core modules.
+
+### IDF – C4I Systems Division (Lotem)
+#### Team Leader - August 2001 to February 2002
+
+ * Led the UI Infrastructure team for a large army C4I system. Directly managed two employees.
+ * Built common user controls in Visual Basic.
+ * Worked directly with clients to write system's principal operations specifications.
+
+### IDF – Techno-Logistic Computing Center (Mamtal)
+#### Software Engineer - April 1999 to August 2001
+
+ * Analyzed, designed and developed a military provisioning expert system.
+ * C++/Motif and Visual Basic in Windows and UNIX environments.
+
+## Open Source Projects Contribution
+#### [AsyncBridge](http://omermor.github.com/AsyncBridge)
+Adds the new C# 5 async for older .NET 3.5 and .NET 4.0 projects
+
+#### [Messageless](http://omermor.github.com/Messageless)
+A novel and innovative RPC based, one-way asynchronous communication framework
+
+#### [State-Machine Toolkit](http://omermor.github.com/StateMachineToolkit)
+A generic state-machine framework, with support for active/passive machines, exposed events and rich exception handling.
+ * Adopted an old "orphan" open source project.
+ * Rewrote it using generic programming.
+ * Added new features and improved API.
+ * Improved quality via unit tests and code coverage.
+
+## Publications
+
+ 1. **Accelerating Enum-Based Dictionaries with Generic EnumComparer**, Omer Mor, [CodeProject](http://www.codeproject.com/KB/cs/EnumComparer.aspx) (2009).
 
 ## Education
+### Technion - Israel Institute of Technology, Haifa
 
-Computer Science, B.S.  
-Fall 2006 - Spring 2011  
-California Polytechnic State University, San Luis Obispo  
+ Computer Science, B.Sc.  
+ 1996 – 1999  
 
-## Systems Proficiency
+ * Received the Dean’s Excellence Award, 1997
 
+## Professional Skills
+ * Fluent in C#, Java and C++
+ * Worked with Relational (SQL Server, Oracle) and NoSQL databases (RavenDB)
+ * System Planning, Architecture, Design and Delivery
+ * Expertise in Distributed Systems
+ * Deep understanding of Multi-Threaded and Multi-Process Applications
+ * Expertise in Code Generation applications
+ * Low Level Debugging & Profiling
+ * Extensive knowledge of Windows and Unix/Linux environments
+ * Design Patterns and Principles (SOLID) and Agile development methodologies
+
+## Language Skills
+ English & Hebrew
+ 
+<!-- 
 **Programming Languages**
 
  > Proficient in:  PHP, Ruby, SML/NJ, HTML, CSS, JavaScript, C, Java, SQL (MySQL, SQLite), Bash
@@ -25,59 +113,5 @@ California Polytechnic State University, San Luis Obispo
 **Software**
 
  > I have experience using most modern development tools including Eclipse, Vim, Git and SVN. I have been using Linux for both personal and server use since 2002. I am also capable of using the majority of the Adobe Creative Suite.
-
-## Experience
-
-### Punchd & Google.com, Mountain View, CA
-
-#### Software Engineer - May 2011 to present
-
-I was [Punchd](http://getpunchd.com)'s backend and operations engineer until we were acquired by Google in July 2011. At Google I have been working on merging Google's scale with Punchd's ingenuity and speed to help redefine loyalty.
-
-
-### iFixit.com, San Luis Obispo CA
-
-#### Software Developer - April 2009 to April 2011
-
-I wear a variety of hats including -- but not limited to -- writing code to promote high quality content and a stable community, helping keep servers afloat, and working with users to develop content. I write code mainly in PHP and Bash, and almost all of our servers are on Amazon's EC2 Service. 
-
- * Helped create a site-wide reputation community, which began with [iFixit.com/Answers](http://ifixit.com/Answers)
- * Helped maintain various servers, located on Amazon EC2, and local development machines
- * Developed the first JavaScript widget for iFixit's API.
- * Redefined iFixit's developer work flow
-
-### Adobe Systems Incorporated, San Francisco CA
-
-#### Dreamweaver Quality Engineering Intern - Summer 2007 and 2008
-
- * Tested both daily builds and released versions of Dreamweaver against various operating systems -- including Mac OSX 10.4, Mac OSX 10.5, Windows Vista, and Windows XP.
- * Helped maintain the Server Matrix, Bug-base, and test a new test case application
- * Helped develop and test the Web Widgets Feature for Dreamweaver CS4, which won the "Dreamweaver Community Feature of the Year" award in 2008.
-
-<!!--
-### California Polytechnic State University, San Luis Obispo CA
-
-#### Computer Science Lab Monitor - September 2006 to June 2007
-
- * Maintained printers and computers for seven labs.
-
-### Sonoma County Information Systems Department, Santa Rosa CA
-
-#### Intern
-
-##### June 2005 to Sept. 2005
- 
- * Built and maintained three separate websites, one dealing with unions, one system uptime web application, and one error reporting web form.
---!>
-
-### BSA Camp Oljato, Lakeshore CA
-
-#### Nature Director - Summer 2006
-#### Camp Counselor - Summer 2002, 2003 and 2004
-
- * In charge of four staff members and responsible for planning the activities behind and maintaining the entire Nature area at camp, with an average of about 200 kids every week for seven weeks.
- * Updated and revised the Forest Management Plan and organized conservation projects throughout camp.
- * Took care of children ages ten to eighteen and responsible for creating and planning daily schedules for my classes.
- * Taught merit badge classes such as wilderness survival, camping, hiking, and others.
-
 -->
+
