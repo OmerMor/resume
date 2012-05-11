@@ -1,0 +1,81 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#resume {
+	color: #333333;
+	width: 800px;
+	margin: 50px auto;
+	font-family: "Droid Serif", serif;
+	line-height: 1.4em;
+}
+
+h1 {
+	font-size: 30pt;
+	margin-top: 0.5em;
+	float: left;
+    font-weight: normal;
+}
+
+ol {
+	clear: both;
+	margin-left: 2em;
+	margin-top: 0.5em;
+}
+
+h2 {
+	clear: both;
+	font-size: 15pt;
+	margin-top: 1em;
+	border-bottom: 4px solid #c0d0e0;
+	padding-bottom: 0.0em;
+	font-variant: small-caps;
+	letter-spacing: 2px;
+}
+
+h3 {
+	font-size: 13pt;
+	margin-top: 1em;
+}
+
+h4 {
+	font-size: 11pt;
+	margin-top: 1em;
+	float: left;
+}
+h5 {
+    color: #555555;
+	font-size: 11pt;
+	font-weight: normal;
+	margin-top: 1em;
+	text-align: right;
+    font-style: italic;
+}
+h6 {
+    color: #555555;
+	font-size: 11pt;
+	font-weight: normal;
+	margin-top: 0em;
+	text-align: right;
+    font-style: italic;
+}
+
+ul {
+	clear: both;
+	margin-left: 2em;
+	margin-top: 0.5em;
+}
+
+li {
+	font-size: 11pt;
+}
+
+a, a:visited {
+	color: inherit;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #4183C4;
+}
