@@ -18,5 +18,5 @@ user_config:
 # For github pages to work, this needs to be the GitHub repository this file is
 # stored in.
 github:
-   remote: 'git@github.com:OmerMor/Resume.git'
+   remote: 'git@github.com:OmerMor/resume.git'
 

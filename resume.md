@@ -1,7 +1,7 @@
 # Omer Mor
 ###### <omer.mor@gmail.com>
 ###### +972 (54) 4949-499
-###### [http://omermor.github.com/Resume/](http://omermor.github.com/Resume/)
+###### [http://omermor.github.com/resume/](http://omermor.github.com/resume/)
 
 ## Summary
 
