@@ -19,33 +19,45 @@ h1 {
 }
 
 ol {
-	list-style: none;
-	text-align: right;
-	width: 100%;
+	clear: both;
+	margin-left: 2em;
+	margin-top: 0.5em;
 }
 
 h2 {
 	clear: both;
 	font-size: 15pt;
-	margin-top: 0.5em;
-	border-bottom: 4px solid #e0e0e0;
-	padding-bottom: 0.5em;
+	margin-top: 1em;
+	border-bottom: 4px solid #c0d0e0;
+	padding-bottom: 0.0em;
 	font-variant: small-caps;
 	letter-spacing: 2px;
 }
 
 h3 {
+	font-size: 13pt;
+	margin-top: 1em;
+}
+
+h4 {
 	font-size: 11pt;
 	margin-top: 1em;
 	float: left;
 }
-
-h4 {
+h5 {
     color: #555555;
 	font-size: 11pt;
 	font-weight: normal;
 	margin-top: 1em;
-	float: right;
+	text-align: right;
+    font-style: italic;
+}
+h6 {
+    color: #555555;
+	font-size: 11pt;
+	font-weight: normal;
+	margin-top: 0em;
+	text-align: right;
     font-style: italic;
 }
 
