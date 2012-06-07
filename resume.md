@@ -101,7 +101,7 @@ A generic state-machine framework, with support for active/passive machines, exp
  * Received the Dean’s Excellence Award, 1997
 
 ## Professional Skills
- * Fluent in C#, Java and C++
+ * Fluent in C#, knowledgable in Java and C++
  * System Planning, Architecture, Design and Delivery
  * Expertise in Distributed Systems
  * Deep understanding of Multi-Threaded and Multi-Process Applications
@@ -109,7 +109,9 @@ A generic state-machine framework, with support for active/passive machines, exp
  * Low Level Debugging & Profiling
  * Worked with Relational (SQL Server, Oracle) and NoSQL databases (RavenDB)
  * Extensive knowledge of Windows and Unix/Linux environments
- * Design Patterns and Principles (SOLID) and Agile development methodologies
+ * Design Patterns and Principles (SOLID)
+ * Agile development methodologies (Scrum, TDD, CI)
+ * Centralized and decentralized version control systems (Mercurial, Git, SVN, ClearCase)
 
 ## Language Skills
  English & Hebrew
