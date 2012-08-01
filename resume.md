@@ -13,9 +13,13 @@ I am looking for new challenges that involve large scale systems and cutting edg
 
 ## Experience
 
+### Intel Corporation
+#### Senior Software Engineer
+##### August 2012 - Current
+
 ### Rafael Advanced Defense Systems Ltd.
 #### Software Group Leader
-##### October 2010 - Present
+##### October 2010 - August 2012
 
  * Leading a group of 4 teams, consisting of 12 software and test engineers, developing mission planning systems in the domains of GIS, computer vision and aerospace engineering.
  * Responsible for pricing, project planning and project delivery estimations in a $100 million project.
