@@ -13,9 +13,15 @@ I am looking for new challenges that involve large scale systems and cutting edg
 
 ## Experience
 
+### Google
+#### Senior Software Engineer
+##### Februray 2014 - Current
+
 ### Intel Corporation
 #### Senior Software Engineer
-##### August 2012 - Current
+##### August 2012 - Februray 2014
+ * Developing deterministic record and playback (tracing) support for Intel Software Development Emulator, enabling developers worldwide to gain familiarity with Intel's upcoming instruction set extensions.
+ * Improving stability, boosting performance, and solving hard problems that require deep x86 architecture knowledge in a multi-platform environment (Linux, Windows, Mac and Android).
 
 ### Rafael Advanced Defense Systems Ltd.
 #### Software Group Leader
